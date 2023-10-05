@@ -9,7 +9,7 @@
 
 Time for more practice! Fork and clone this lab, then **read the instructions
 before running any tests**.
-
+##Rewrite the Problem   I will determine if there exists a pair of numbers within the array whose sum equals the target integer. If such a pair exists, return true; otherwise, return false.
 ## Instructions
 
 Write a function called `hasTargetSum` that receives two arguments:
